@@ -22,14 +22,14 @@ const Header = () => {
             </li>
 
             <li className="nav_item">
-              <a href="#services" className="nav_link">
+              <a href="#skills" className="nav_link">
                 <i className="uil uil-file-alt nav_icon"></i>
                 Skill
               </a>
             </li>
 
             <li className="nav_item">
-              <a href="#services" className="nav_link">
+              <a href="#serv" className="nav_link">
                 <i className="uil uil-briefcase-alt nav_icon"></i>
                 Services
               </a>

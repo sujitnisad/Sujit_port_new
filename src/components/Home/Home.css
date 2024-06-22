@@ -72,24 +72,24 @@
 .home_scroll {
   margin-left: 9.2rem;
 }
-/* .home_scroll-name {
+.home_scroll-name {
   color: var(--title-color);
   font-weight: var(--font-medium);
   margin-right: var(--mb-0-25);
   margin-left: 2px;
-} */
+}
 .home_scroll-down {
   color: var(--title-color);
   font-weight: var(--font-medium);
-  font-size: 50px;
-  animation: scroll 2s ease infinite;
+  font-size: 30px;
+  animation: scroll 1s ease infinite;
 }
 @keyframes scroll {
   0% {
     transform: translateY(0);
   }
   30% {
-    transform: translateY(0.5rem);
+    transform: translateY(0.8rem);
   }
 }
 
