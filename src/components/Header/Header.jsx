@@ -13,7 +13,7 @@ const Header = () => {
     <header className="header">
       <nav className="nav container">
         <a href="index.html" className="nav_logo">
-          Sujit
+          SUJIT
         </a>
         <div className={toggle ? "nav_menu show-menu" : "nav_menu"}>
           <ul className="nav_list grid">
@@ -59,6 +59,20 @@ const Header = () => {
                 Services
               </a>
             </li> */}
+            <li className="nav_item">
+              <a
+                href="#qualification"
+                onClick={() => setActiveNav("#qualification")}
+                className={
+                  activeNav === "#qualification"
+                    ? "nav_link active-link"
+                    : "nav_link"
+                }
+              >
+                <i className="uil uil-scenery nav_icon"></i>
+                Qualifications
+              </a>
+            </li>
 
             <li className="nav_item">
               <a

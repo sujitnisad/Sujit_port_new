@@ -7,24 +7,32 @@ const Backend = () => {
           <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">Node.js</h3>
-              <span className="skills__level">Intermediate</span>
+              <h3 className="skills__name">Core Java</h3>
+              <span className="skills__level">Basic</span>
             </div>
           </div>
 
           <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">Mongo db</h3>
-              <span className="skills__level">Intermediate</span>
+              <h3 className="skills__name">Hibernate</h3>
+              <span className="skills__level">Basic</span>
             </div>
           </div>
 
           <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">Express</h3>
-              <span className="skills__level">Intermediate</span>
+              <h3 className="skills__name">Spring Framework</h3>
+              <span className="skills__level">Basic</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills__name">SQL</h3>
+              <span className="skills__level">Basic</span>
             </div>
           </div>
 
