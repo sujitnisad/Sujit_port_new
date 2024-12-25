@@ -49,7 +49,7 @@ const Contact = () => {
                 type="text"
                 name="name"
                 className="contact__form-input"
-                placeholder="Insert your name"
+                placeholder="Your name"
               ></input>
             </div>
 
@@ -59,7 +59,7 @@ const Contact = () => {
                 type="email"
                 name="name"
                 className="contact__form-input"
-                placeholder="Insert your email"
+                placeholder="Your email"
               ></input>
             </div>
 

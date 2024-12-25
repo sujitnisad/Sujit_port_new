@@ -15,7 +15,22 @@ const Frontend = () => {
           <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
+              <h3 className="skills__name">Redux Toolkit</h3>
+              <span className="skills__level">Intermediate</span>
+            </div>
+          </div>
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+            <div>
               <h3 className="skills__name">Javascript</h3>
+              <span className="skills__level">Advance</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills__name">TypeScript</h3>
               <span className="skills__level">Advance</span>
             </div>
           </div>
@@ -28,44 +43,20 @@ const Frontend = () => {
             </div>
           </div>
 
-          <div className="skills__data">
-            <i className="bx bx-badge-check"></i>
-            <div>
-              <h3 className="skills__name">Git</h3>
-              <span className="skills__level">Intermediate</span>
-            </div>
-          </div>
-        </div>
-
-        <div className="skills__group">
-          <div className="skills__data">
-            <i className="bx bx-badge-check"></i>
-            <div>
-              <h3 className="skills__name">CSS</h3>
-              <span className="skills__level">Intermediate</span>
+          <div className="skills__group">
+            <div className="skills__data">
+              <i className="bx bx-badge-check"></i>
+              <div>
+                <h3 className="skills__name">CSS</h3>
+                <span className="skills__level">Intermediate</span>
+              </div>
             </div>
           </div>
 
           <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">Redux</h3>
-              <span className="skills__level">Intermediate</span>
-            </div>
-          </div>
-
-          <div className="skills__data">
-            <i className="bx bx-badge-check"></i>
-            <div>
-              <h3 className="skills__name">R-Query</h3>
-              <span className="skills__level">Intermediate</span>
-            </div>
-          </div>
-
-          <div className="skills__data">
-            <i className="bx bx-badge-check"></i>
-            <div>
-              <h3 className="skills__name">Tailwind</h3>
+              <h3 className="skills__name">Tailwind CSS</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
